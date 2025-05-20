@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Profile section</string>
+    <string name="profile">Profile</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+    <string name="refer_earn_up_to_1000"><![CDATA[Refer & Earn: Up to ₹1000]]></string>
+    <string name="support">support</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
